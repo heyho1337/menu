@@ -3,6 +3,7 @@
     "description": "symfony menu bundle by heyhodesigns",
     "type": "symfony-bundle",
     "license": "MIT",
+    "version": "v1.0.5",
     "autoload": {
         "psr-4": {
             "Heyhodesigns\\Menu\\": "src/"
@@ -22,7 +23,7 @@
         "symfony": {
             "endpoint": [
                 "flex://defaults",
-                "https://raw.githubusercontent.com/heyho1337/menu-recipe/main/index.json"
+                "https://raw.githubusercontent.com/heyho1337/menu-recipe/master/index.json"
             ]
         }
     }
